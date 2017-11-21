@@ -1,0 +1,26 @@
+{
+  "name": "api-with-restify",
+  "version": "1.0.0",
+  "description": "Restify API with ofc NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adithyvisnu/learn-restify.git"
+  },
+  "keywords": [
+    "restify",
+    "api"
+  ],
+  "author": "Adithya Visnu (adithyavisnu@gmail.com/adithyavisnu@helio.id)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adithyvisnu/learn-restify/issues"
+  },
+  "homepage": "https://github.com/adithyvisnu/learn-restify#readme",
+  "dependencies": {
+    "restify": "^6.3.3"
+  }
+}
